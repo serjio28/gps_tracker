@@ -1,12 +1,12 @@
-##gps_tracker
+##GPS position and altitude tracker
 ===========
 
 View GPS data: geo coordinates, altitude and accuracy. Can keep tracking of the done route for further analyze.
 
 ### Description
 
-     This is an application for Android to watch and track GPS data. Initially
-it was created to get the current altitude above sea level that is helpful during 
+This is an application for Android to watch and track GPS data. Initially it was 
+created to get the current altitude above sea level that is helpful during 
 mountain trips. Next the program was extended to track the passed travel route for
 further analyze. There is a way to insert the tracked data to Google Map to
 see or share with friend the passed travel route. The current release shows 
