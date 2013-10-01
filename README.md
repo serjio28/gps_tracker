@@ -27,3 +27,4 @@ when the button "Set elevation start" was clicked and the difference between
 the current point and initial point. I found it useful in mountaineering to know 
 how many meters you get above the start point.
  
+..
