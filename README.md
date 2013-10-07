@@ -28,3 +28,4 @@ the current point and initial point. I found it useful in mountaineering to know
 how many meters you get above the start point.
  
 ..updated from Appception
+.
